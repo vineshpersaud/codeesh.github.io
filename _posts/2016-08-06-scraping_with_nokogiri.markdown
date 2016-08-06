@@ -16,10 +16,10 @@ require 'open-uri'
 require 'nokogiri'
 ```
 
-Open URI is a module which is included in ruby which give to acess to live pages as if it is a local file.
-To access this files I will be using the Nokogiri gem to phrase the HTML data which we get from open uri.
+Open URI is a module which is included in ruby which gives acess to live webpages as if it is a local file.
+To access these files I will be using the Nokogiri gem to phrase the HTML data which we get from open uri.
 
-The first line of code below creates a temp file with the HTML from the url and assigns it to the variable.
+The first line of code below creates a temp file with the HTML from the url and assigns it to the "html" variable.
 The second line of code uses Nokogiri to phrase the HTML files so you can access it using CSS selectors.
 
 ```
@@ -37,7 +37,7 @@ To find out what how to grab the information you want to scrap you can right cli
 
 <a href="http://tinypic.com?ref=344ckkk" target="_blank"><img src="http://i66.tinypic.com/344ckkk.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
-The first line of code Is used to select the current top movies names in theaters on rotten tomatoes and assign them to a variable called movies .
+The first line of code Is used to select the current top movies names in theaters on rotten tomatoes and assign them to a variable called movies .The second line of code uses puts to output each movie name in the top movies lists.
 
 ```
 
