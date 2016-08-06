@@ -52,7 +52,7 @@ This is the output I received.
 <a href="http://tinypic.com?ref=dm7gd3" target="_blank"><img src="http://i64.tinypic.com/dm7gd3.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
 
-For more info on how to scrape using nokogiri and using css selectors I recommend the following great reference which I used  -http://ruby.bastardsbook.com/chapters/html-parsing/
+For more info on how to scrape using nokogiri and using css selectors I recommend the following great reference which I used  - [http://ruby.bastardsbook.com/chapters/html-parsing/](http://ruby.bastardsbook.com/chapters/html-parsing/)
 
 
 
