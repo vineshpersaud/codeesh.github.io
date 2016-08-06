@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scraping With Nokogiri"
-date:   2016-08-06 14:07:39 +0000
+date:   2016-08-06 10:07:39 -0400
 ---
 
 
@@ -35,7 +35,7 @@ doc = Nokogiri::HTML(open("https://www.rottentomatoes.com/"))
 
 To find out what how to grab the information you want to scrap you can right click and inspect to find the the CSS tags to use to grab info.
 
-![](<a href="http://tinypic.com?ref=344ckkk" target="_blank"><img src="http://i66.tinypic.com/344ckkk.png" border="0" alt="Image and video hosting by TinyPic"></a>)
+<a href="http://tinypic.com?ref=344ckkk" target="_blank"><img src="http://i66.tinypic.com/344ckkk.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
 The first line of code Is used to select the current top movies names in theaters on rotten tomatoes and assign them to a variable called movies .
 
@@ -49,7 +49,7 @@ movies.each {|movie| puts "#{movie.text}"}
 
 This is the output I received.
 
-![]<a href="http://tinypic.com?ref=dm7gd3" target="_blank"><img src="http://i64.tinypic.com/dm7gd3.png" border="0" alt="Image and video hosting by TinyPic"></a>)
+<a href="http://tinypic.com?ref=dm7gd3" target="_blank"><img src="http://i64.tinypic.com/dm7gd3.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
 
 For more info on how to scrape using nokogiri and using css selectors I recommend the following great reference which I used  -http://ruby.bastardsbook.com/chapters/html-parsing/
