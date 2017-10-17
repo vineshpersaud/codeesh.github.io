@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "**Refactoring/Speeding up my Cli gem**""
+title:      "Refactoring/Speeding up my Cli gem"
 date:       2017-10-17 17:13:51 -0400
 permalink:  refactoring_speeding_up_my_cli_gem
 ---
