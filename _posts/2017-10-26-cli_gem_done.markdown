@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Gem done"
-date:       2017-10-26 18:49:36 +0000
+date:       2017-10-26 14:49:37 -0400
 permalink:  cli_gem_done
 ---
 
