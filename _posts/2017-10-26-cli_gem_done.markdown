@@ -35,13 +35,13 @@ By building this gem I gained some confidence that I am able to make something a
 
 <h6>Links</h6>
 
-Speeding up CLI Gem - [http://codeesh.github.io/refactoring_speeding_up_my_cli_gem](http://)
 
-My Gem - [https://rubygems.org/gems/now_showing](http://)
+<a href="http://codeesh.github.io/refactoring_speeding_up_my_cli_gem">Speeding up CLI Gem</a>
 
-Git Repo - [https://github.com/codeesh/now-showing-cli-app](http://)
+<a href="https://rubygems.org/gems/now_showing">Now Showing gem - Ruby gems</a>
 
-Video Demo - [https://youtu.be/tArNlS8XYRE](http://)
+<a href="https://github.com/codeesh/now-showing-cli-app">Git Repo </a>
 
+<a href="https://youtu.be/tArNlS8XYRE">Video Demo</a>
 
 
