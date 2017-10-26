@@ -39,6 +39,8 @@ My Gem - https://rubygems.org/gems/now_showing
 
 Git Repo - https://github.com/codeesh/now-showing-cli-app
 
+Video Demo - https://youtu.be/tArNlS8XYRE
+
 
 
 
