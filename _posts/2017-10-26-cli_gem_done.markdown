@@ -33,14 +33,15 @@ Here is the process of the code when user ask for opening movies.
 <h6>Lessons learned</h6>
 By building this gem I gained some confidence that I am able to make something and I learned a lot and I have much more to learn.On the technical side, I learned that one way to make my program run faster and more efficient is to have it only run a process when its needed instead of doing everything at once to find out more about I mean you can read my blog post on refactoring my code at the link below.
 
-Speeding up CLI Gem - http://codeesh.github.io/refactoring_speeding_up_my_cli_gem
+<h6>Links</h6>
 
-My Gem - https://rubygems.org/gems/now_showing
+Speeding up CLI Gem - [http://codeesh.github.io/refactoring_speeding_up_my_cli_gem](http://)
 
-Git Repo - https://github.com/codeesh/now-showing-cli-app
+My Gem - [https://rubygems.org/gems/now_showing](http://)
 
-Video Demo - https://youtu.be/tArNlS8XYRE
+Git Repo - [https://github.com/codeesh/now-showing-cli-app](http://)
 
+Video Demo - [https://youtu.be/tArNlS8XYRE](http://)
 
 
 
